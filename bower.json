@@ -1,0 +1,33 @@
+{
+  "name": "Bowling",
+  "description": "Bowling Bower dependencies",
+  "main": "",
+  "authors": [
+    "Rémi Flipo <remi.flipo@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Bowling",
+    "Bower",
+    "Components"
+  ],
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize-css": "~3.0.3",
+    "owlcarousel": "~1.3.2",
+    "admin-lte": "admin-lte#~2.3.2",
+    "jquery-mask-plugin": "~1.13.4",
+    "remodal": "~1.0.6",
+    "datedropper": "#21b66192b3",
+    "owl.carousel": "~2.1.1"
+  }
+}
